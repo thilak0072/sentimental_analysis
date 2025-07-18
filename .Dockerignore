@@ -1,0 +1,15 @@
+venv/
+.env/
+
+list_package_sizes.py
+graph_decoder.py
+SentimentBulk.csv
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.git/
+.gitignore
+.gitattributes

@@ -1,0 +1,11 @@
+Sentence,sentiment_classification,sentiment_score
+The new update improved the performance of the app significantly. I'm very satisfied with the changes.,positive,9.0
+Excellent customer service and a very reliable product. Worth every penny.,positive,9.0
+"The product arrived damaged, and I had to wait a long time to get a replacement. Very disappointed.",negative,-7.0
+Good value for the price. The quality is decent and it works as expected.,positive,8.0
+"The instructions were unclear, and the product did not meet my expectations. I would not recommend it.",negative,-7.0
+Great features and easy to use. It's a fantastic addition to my home.,positive,9.0
+"The item stopped working after a week, and the customer support was unhelpful. I regret this purchase.",negative,-7.0
+The build quality is solid and it performs well. I am happy with my purchase.,positive,8.0
+Very poor experience. The item broke down right after the warranty period ended.,negative,-7.0
+Highly recommend this product. It exceeded my expectations in terms of performance and durability.,positive,9.0
